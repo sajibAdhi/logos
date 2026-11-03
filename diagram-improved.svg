@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 850" fill="none">
+  <path fill="#1a1a1a" d="M502 95
+    L615 95
+    L745 295
+    L880 295
+    L880 390
+    L745 390
+    L680 510
+    L880 775
+    L740 775
+    L575 520
+    L420 775
+    L280 775
+    L430 510
+    L310 390
+    L175 390
+    L175 295
+    L340 295
+    L502 95
+    Z"></path>
+  
+  
+  <path fill="#ffffff" d="M500 195
+    L575 195
+    L640 310
+    L555 310
+    L500 195
+    Z"></path>
+  
+  <path fill="#ffffff" d="M390 430
+    L610 430
+    L560 515
+    L440 515
+    L390 430
+    Z"></path>
+</svg>
